@@ -7,7 +7,7 @@ Based in Japan 🇯🇵
 - 📚 Interested in politics, diplomacy and technology
 - 🤖 Building AI companions and multilingual systems
 - 🐈 Cat crew member but also acts like a dog
-- ☕ Loves International communication
+- ☕ Loves international communication
 
  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
